@@ -23,7 +23,7 @@ I'm 23 years old and I'm Software Developer for over 6 years.
 
 ## About my projects
 - 🔭 I’m currently working as a self-employed
-- 🌱 I’m currently learning more about Javascript and mainly frameworks like React.JS and Vue.JS
+- 🌱 I’m currently learning more about Javascript and mainly frameworks like React.JS
 
 ![Profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=agostinhodev)
 
