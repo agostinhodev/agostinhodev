@@ -1,8 +1,10 @@
 # Hello, I'm Agostinho Neto 👋
 
-I'm 23 years old and I'm Software Developer for over 6 years.
+I'm 25 years old and like to code! 😉
 
-## Language and tools
+I'm the creator and maintainer of this npm lib: https://www.npmjs.com/package/handle-http-error-codes
+
+## Language and tools that I love to use
 
 <a href="https://httpd.apache.org/" target="_blank"><img align="left" alt="Apache Server" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/apache_original_wordmark_logo_icon_146643.png" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" /></a>
